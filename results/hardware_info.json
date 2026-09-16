@@ -1,0 +1,9 @@
+{
+  "python": "3.13.15",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "tensorflow": "2.20.0",
+  "gpu_devices": [
+    "/physical_device:GPU:0"
+  ],
+  "cpu": "x86_64"
+}

@@ -1,0 +1,7 @@
+{
+  "best_model_name": "ARIMA+Decomp",
+  "focus_area": 5161,
+  "window_start": "2013-12-22 16:50:00+01:00",
+  "window_end": "2013-12-22 22:50:00+01:00",
+  "peak_rolling_mae": 250.9877010879169
+}

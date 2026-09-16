@@ -1,0 +1,12 @@
+{
+  "on_disk_mb_per_file": 322.874887,
+  "rows_per_file": 4842625,
+  "naive_load_mem_mb": 309.928132,
+  "naive_load_time_s": 8.585093021392822,
+  "streaming_peak_chunk_mem_mb": 6.000132,
+  "streaming_load_time_s": 8.950831890106201,
+  "streaming_final_accumulator_mem_mb": 0.1,
+  "peak_memory_reduction_factor": 51.65355228851632,
+  "naive_extrapolated_61_files_gb": 18.905616052000003,
+  "streaming_extrapolated_61_files_mb_peak": 6.000132
+}

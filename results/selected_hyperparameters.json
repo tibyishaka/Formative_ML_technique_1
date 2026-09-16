@@ -1,0 +1,18 @@
+{
+  "L": 144,
+  "best_lstm_cfg": {
+    "units": 64,
+    "n_layers": 1,
+    "lr": 0.001
+  },
+  "best_gru_cfg": {
+    "units": 64,
+    "n_layers": 1,
+    "lr": 0.001
+  },
+  "best_arima_order": [
+    2,
+    0,
+    1
+  ]
+}
